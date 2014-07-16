@@ -4,7 +4,7 @@ Sir Trevor editor additional formatters
 ### How to use additional formatters
 
 
-Don't forget about [sir-trevor](http://madebymany.github.io/sir-trevor-js/) editor first!
+Don't forget about [sir-trevor](http://madebymany.github.io/sir-trevor-js/) editor first! ;)
 
 Following scripts and styles are required on your page to use formatters:
 ```html
@@ -71,3 +71,5 @@ Correct way with jquery noConflict():
     })
 })(jQuery.noConflict());
 ```
+
+So this way you can complete base Sir Trefor formatter set! Try, report about bugs and issues, enjoy! =)
