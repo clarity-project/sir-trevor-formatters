@@ -1,0 +1,16 @@
+/** Icon for format bar */
+.st-format-btn--SpecialChars:after {
+    content: '\3a9';
+    font-size: 20px;
+}
+/** Like bootstrap table table-bordered text-center style */
+.st-dialog .st-char-table {
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+    max-width: 100%;
+    background-color: transparent;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
