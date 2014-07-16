@@ -1,0 +1,5 @@
+.st-format-btn--Subscript:after {
+    content: ' Sub';
+    vertical-align: sub;
+    font-size: 10px;
+}

@@ -1,0 +1,5 @@
+.st-format-btn--Superscript:after {
+    content: ' Sup';
+    vertical-align: super;
+    font-size: 10px;
+}

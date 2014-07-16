@@ -1,0 +1,8 @@
+.st-format-btn--JustifyRight:after {
+    content: '\21AC';
+    font-size: 15px;
+}
+.st-format-btn--JustifyLeft:before {
+    content: '\21AB';
+    font-size: 15px;
+}
