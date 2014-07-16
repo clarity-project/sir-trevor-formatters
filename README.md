@@ -1,4 +1,7 @@
-### How to use my extension
+Sir Trevor editor additional formatters
+================
+
+### How to use additional formatters
 
 
 Don't forget about [sir-trevor](http://madebymany.github.io/sir-trevor-js/) editor first!
