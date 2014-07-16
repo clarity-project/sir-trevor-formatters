@@ -26,6 +26,7 @@
 
         template: _.template([
             '<div id="st-dialog" title="<%= i18n.t("general:special_char") %>">',
+                '<input type="hidden" autofocus="autofocus" />', // To prevent jquery ui dialog focus on first link - it's not pretty
                 '<table id="st-char-table" class="st-char-table"></table>',
             '</div>'
         ].join("\n")),
