@@ -21,13 +21,14 @@ Following scripts and styles are required on your page to use formatters:
 
         <!-- jQuery -->
         <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-        <!-- Sir Trevor -->
+
+        <!-- Sir Trevor downloaded from official github repository -->
         <script type="text/javascript" src="sir-trevor-js-master/sir-trevor.js"></script>
 
-        <!-- Underscore -->
+        <!-- Underscore (included in sir-trevor) -->
         <script type="text/javascript" src="sir-trevor-js-master/website/bower_components/underscore/underscore-min.js"></script>
 
-        <!-- Eventable -->
+        <!-- Eventable (included in sir-trevor) -->
         <script type="text/javascript" src="sir-trevor-js-master/website/bower_components/Eventable/eventable.js"></script>
 
     <!-- FORMATTERS -->
